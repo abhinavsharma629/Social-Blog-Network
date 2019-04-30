@@ -1,0 +1,329 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"SE",
+				"SECRET_KEY"
+			],
+			[
+				"Passwor",
+				"PasswordResetDoneView"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"U",
+				"UserCreationForm"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"Home",
+				"HomeForm"
+			],
+			[
+				"User",
+				"UserProfileManager"
+			],
+			[
+				"django",
+				"djangoproject"
+			],
+			[
+				"LO",
+				"LOGIN_EXEMPT_URLS"
+			],
+			[
+				"re",
+				"password_reset_done"
+			],
+			[
+				"reset_",
+				"password_reset_done"
+			],
+			[
+				"reset",
+				"reset-password"
+			],
+			[
+				"r",
+				"reset_password"
+			],
+			[
+				"u",
+				"update_session_auth_hash"
+			],
+			[
+				"p",
+				"PasswordChangeForm"
+			],
+			[
+				"c",
+				"change_password"
+			],
+			[
+				"UserC",
+				"UserChangeForm"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"tran",
+				"transition-duration\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"d",
+				"double\tborder-style"
+			],
+			[
+				"bor",
+				"border-style\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"border-t",
+				"border-top-style\tproperty"
+			],
+			[
+				"sty",
+				"border-style\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"s",
+				"style\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/shivi/Desktop/djangoproject/djangoproject/settings/prod.py",
+		"/C/Users/shivi/Desktop/djangoproject/djangoproject/settings/base.py",
+		"/C/Users/shivi/Desktop/djangoproject/djangoproject/settings/dev.py",
+		"/C/Users/shivi/Desktop/djangoproject/djangoproject/wsgi.py",
+		"/C/Users/shivi/Desktop/djangoproject/djangoproject/settings/local.py",
+		"/C/Users/shivi/Desktop/djangoproject/accounts/views.py",
+		"/C/Users/shivi/Desktop/djangoproject/accounts/templates/accounts/home.html",
+		"/C/Users/shivi/Desktop/djangoproject/accounts/templates/base.html",
+		"/C/Users/shivi/Desktop/djangoproject/djangoproject/settings.py",
+		"/C/Users/shivi/Desktop/djangoproject/accounts/urls.py",
+		"/C/Users/shivi/Desktop/djangoproject/djangoproject/urls.py",
+		"/C/Users/shivi/Desktop/djangoproject/accounts/models.py",
+		"/C/Users/shivi/Desktop/djangoproject/accounts/templates/accounts/profile.html",
+		"/C/Users/shivi/Desktop/djangoproject/accounts/forms.py",
+		"/C/Users/shivi/Desktop/djangoproject/home/urls.py",
+		"/C/Users/shivi/Desktop/djangoproject/home/templates/home/home.html",
+		"/C/Users/shivi/Desktop/djangoproject/home/forms.py",
+		"/C/Users/shivi/Desktop/djangoproject/djangoproject/middleware.py",
+		"/C/Users/shivi/Desktop/djangoproject/copied",
+		"/C/Users/shivi/Desktop/djangoproject/home/views.py",
+		"/C/Users/shivi/Desktop/djangoproject/home/models.py",
+		"/C/Users/shivi/Desktop/djangoproject/accounts/admin.py",
+		"/C/Users/shivi/Desktop/djangoproject/accounts/templates/base_site.html",
+		"/C/Users/shivi/Desktop/djangoproject/accounts/templates/accounts/change_password.html",
+		"/C/Users/shivi/Desktop/djangoproject/accounts/templates/accounts/edit_profile.html",
+		"/C/Users/shivi/Desktop/djangoproject/accounts/templates/accounts/reg_form.html",
+		"/C/Users/shivi/Desktop/djangoproject/djangoproject/views.py",
+		"/C/Users/shivi/Desktop/djangoproject/accounts/templates/accounts/logout.html",
+		"/C/Users/shivi/Desktop/djangoproject/accounts/templates/accounts/login.html",
+		"/C/Users/shivi/Desktop/djangoproject/accounts/migrations/0001_initial.py",
+		"/C/Users/shivi/Desktop/djangoproject/accounts/static/accounts/style.css",
+		"/C/Users/shivi/Desktop/djangoproject/manage.py",
+		"/C/Users/shivi/Desktop/helloworld/pages/views.py",
+		"/C/Users/shivi/Desktop/django/djangoproject/settings.py",
+		"/C/Users/shivi/Desktop/helloworld/pages/urls.py",
+		"/C/Users/shivi/Desktop/helloworld/helloworld_project/urls.py",
+		"/C/Users/shivi/Desktop/pyth.py",
+		"/C/Users/shivi/Desktop/website/manage.py",
+		"/C/Users/shivi/Desktop/django/djangoproject/djangoproject/urls.py",
+		"/C/Users/shivi/Desktop/django/djangoproject/djangoproject/settings.py",
+		"/C/Users/shivi/Desktop/htmll.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "views.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"accounts\\urls.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
