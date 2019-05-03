@@ -7,4 +7,4 @@
     Speech To text translation
     Pagnation and much more
     
-## To enable google api go to google developer console and download the .json file after you start the particular api and keep the file in your project's root directory.
+### To enable google api go to google developer console and download the .json file after you start the particular api and keep the file in your project's root directory.
